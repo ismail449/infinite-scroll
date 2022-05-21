@@ -1,5 +1,5 @@
 
-import apiKey from "./apiKey";
+import apiKey from "./apiKey.js";
 //getting elements
 const imageContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader');
